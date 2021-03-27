@@ -18,7 +18,7 @@
 
 <a name="documentation"></a>
 ## 3. Презентация
-* [Презентация]()
+* [Презентация](https://codingburgas-my.sharepoint.com/:v:/g/personal/ziyordanova18_codingburgas_bg/EQtg-eSDDYNOjEoNl5JKjDwBUSyNwUHYayss8c8wj0PzMQ?e=2fNefc)
 
 <a name="technologies"></a>
 
