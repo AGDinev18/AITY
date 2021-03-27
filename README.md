@@ -3,6 +3,7 @@
 2. [Нашият отбор](#team)
 3. [Презентация](#documentation)
 4. [Използвани технологии](#technologies)
+5. [Блок схема](#scheme)
 
 <a name="desc"></a>
 ## 1. Описание
@@ -23,3 +24,6 @@
 
 ## 4. Използвани технологии
 * Python
+
+## 5. Блок схема
+* ![scheme](https://user-images.githubusercontent.com/58163283/112704519-95dc7a80-8ea3-11eb-9914-5858e9388b24.png)
