@@ -25,5 +25,6 @@
 ## 4. Използвани технологии
 * Python
 
+<a name="scheme"></a>
 ## 5. Блок схема
 ![scheme](https://user-images.githubusercontent.com/58163283/112704519-95dc7a80-8ea3-11eb-9914-5858e9388b24.png)
